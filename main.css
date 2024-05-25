@@ -1,0 +1,181 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+
+.container {
+    margin: 0 auto;
+    width: 1200px;
+
+}
+
+
+body {
+    background-color: rgba(250, 250, 250, 1);
+
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 48px 0;
+}
+
+
+.lang {
+    font-weight: bold;
+    font-size: 36px;
+
+}
+
+
+.nav-lang {
+    display: flex;
+    gap: 14px;
+}
+
+
+header {
+    border-bottom: 1px solid #DEDBDB;
+    background-color: white;
+}
+
+
+.wrapper {
+    width: 650px;
+    height: 837px;
+    margin: 46px auto 0;
+    border-radius: 50px;
+    border: 1px solid rgba(222, 219, 219, 1);
+    background-color: rgba(255, 255, 255, 1);
+    padding: 66px;
+}
+
+.jpg {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.lg {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+.hd {
+    text-align: center;
+    margin-top: 131px;
+    font-size: 48px;
+    color: rgba(14, 13, 93, 1);
+
+}
+
+
+.run {
+    width: 533px;
+    height: 70px;
+    border-radius: 20px;
+    background-color: rgba(245, 245, 245, 1);
+    margin: 79px auto 0;
+}
+
+.do {
+    width: 255px;
+    height: 54px;
+    border-radius: 15px;
+    background-color: rgba(255, 255, 255, 1);
+    border: none;
+    margin-left: 11px;
+}
+
+.run {
+    display: flex;
+    align-items: center;
+
+}
+
+.gun {
+    border: none;
+    margin-left: 82px;
+}
+
+
+
+
+.next {
+    width: 533px;
+    height: 70px;
+    font-size: 24px;
+    border-radius: 20px;
+    color:
+        rgba(117, 117, 117, 0.7);
+    background-color:
+        rgba(250, 250, 250, 1);
+    border: 1px solid rgba(117, 117, 117, 0.19);
+    margin-top: 39px;
+    padding: 12px 20px;
+}
+
+
+.lot {
+    width: 533px;
+    height: 70px;
+    font-size: 24px;
+    border-radius: 20px;
+    color:
+        rgba(117, 117, 117, 0.7);
+    background-color:
+        rgba(250, 250, 250, 1);
+    border: 1px solid rgba(117, 117, 117, 0.19);
+    margin-top: 39px;
+    padding: 12px 20px;
+}
+
+
+.rul {
+    border: none;
+    background-color: white;
+    color:
+        rgba(0, 0, 0, 0.64);
+    display: flex;
+    justify-content: center;
+}
+
+
+.teach {
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+}
+
+.wolf {
+    width: 202px;
+    height: 67px;
+    border-radius: 20px;
+    background-color: rgba(246, 158, 134, 1);
+    border: none;
+    color: white;
+
+}
+
+
+.oxiri {
+    margin-top: 31px;
+    margin-left: 330px;
+
+}
+
+
+ul li a {
+    font-size: 24px;
+    color:
+        rgba(0, 0, 0, 0.64);
+    font-weight: 500;
+}
